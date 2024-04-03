@@ -12,4 +12,5 @@ h1 {border-color: blueviolet;
 }
 .parte01 {background-color: aquamarine;
 }
-#parte01 {}
+#parte01 {border: 200%;
+}
